@@ -1,0 +1,1 @@
+ignite rm -f master worker1 worker2
